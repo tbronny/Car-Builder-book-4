@@ -42,7 +42,7 @@ export const Cars = () => {
         </article>
 
         <article class="customOrders">
-            <h2>Price Quote</h2>
+            <h2>Price Quote:</h2>
             ${Orders()}
         
         </article>
